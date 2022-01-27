@@ -9,3 +9,5 @@
 
 ##### If you want to know more about me, visit (Se quiser saber mais sobre mim, acesse):
 <a href="https://www.linkedin.com/in/lfeabreu/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<span> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lfeabreu&show_icons=true&count_private=true&theme=dracula&hide=prs,issues,contribs" width="350"></a> </span>
+<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfeabreu&theme=dracula&hide=java,css,html,ruby,makefile,objective-c) </span>
