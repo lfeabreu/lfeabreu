@@ -9,7 +9,7 @@
 
 ##### If you want to know more about me, visit (Se quiser saber mais sobre mim, acesse):
 <a href="https://www.linkedin.com/in/lfeabreu/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://cursos.alura.com.br/vitrinedev/lfeabreu">![image](https://img.shields.io/badge/Alura-0077B5?style=for-the-badge&logo=alura&logoColor=white)</a>
+<a href="https://cursos.alura.com.br/vitrinedev/lfeabreu">![image](https://img.shields.io/badge/Alura_--_Vitrine.Dev-093364?style=for-the-badge&logoColor=white)</a>
 
 <span> <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lfeabreu&show_icons=true&count_private=true&theme=tokyonight&hide=prs,issues,contribs&custom_title=Lu%C3%ADs%20-%20GitHub%20Stats" width="350"></a> </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfeabreu&theme=tokyonight&layout=compact&hide=css,html,makefile,objective-c&langs_count=10) </span>
