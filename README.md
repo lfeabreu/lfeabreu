@@ -1,6 +1,6 @@
 ### Hey! I'm Luís Filipe 👋
 
-- 🔭 I’m currently looking fo a Software Developer job. In my last job, I worked as a Planning Analyst (or Traffic Analyst) at the Contact Center of Brasilseg Companhia de Seguros (a BB Seguros company)
+- 🔭 I’m currently looking for a Software Developer job. In my last job, I worked as a Planning Analyst (or Traffic Analyst) at the Contact Center of Brasilseg Companhia de Seguros (a BB Seguros company)
 - 🌱 I've learned a little bit of everything from backend to frontend. C, Java, VB, VBA, SQL (MS SQL Server and MySQL), Python, HTML, CSS, JavaScript, etc. Now, I'm delving into .NET with C# and I'm loving it.
 
 ### E aí!? Eu sou Luís Filipe 👋
