@@ -1,11 +1,11 @@
 ### Hey! I'm Luís Filipe 👋
 
-- 🔭 I’m currently looking for a Software Developer job. In my last job, I worked as a Planning Analyst (or Traffic Analyst) at the Contact Center of Brasilseg Companhia de Seguros (a BB Seguros company)
-- 🌱 I've learned a little bit of everything from backend to frontend. C, Java, VB, VBA, SQL (MS SQL Server and MySQL), Python, HTML, CSS, JavaScript, etc. Now, I'm delving into .NET with C# and I'm loving it.
+- 🔭 I’m currently working as Data Analyst (Transports Analyst, how it's called here). In my last job, I worked as a Planning Analyst (or Traffic Analyst).
+- 🌱 I've learned a little bit of everything from backend to frontend and data. C, Java, VB, VBA, SQL (MS SQL Server and MySQL), Python, HTML, CSS, JavaScript, etc. Now, I'm delving into .NET with C# and I'm loving it.
 
 ### E aí!? Eu sou Luís Filipe 👋
-- 🔭 Atualmente estou procurando trabalho como Desenvolvedor de Software. No meu trabalho anterior, trabalhei como Analista de Planejamento (ou Analista de Tráfego) no Contact Center da Brasilseg Companhia de Seguros (uma empresa BB Seguros)
-- 🌱 Eu já aprendi um pouco de tudo, desde back-end à front-end. C, Java, VB, VBA, SQL (MS SQL Server e MySQL), Python, HTML, CSS, JavaScript, etc. Agora, eu estou me aprofundando em .NET com C# e estou amando.
+- 🔭 Atualmente estou trabalhando como Analista de Dados (Analista de Transportes, como é chamado aqui). No meu trabalho anterior, trabalhei como Analista de Planejamento (ou Analista de Tráfego).
+- 🌱 Eu já aprendi um pouco de tudo, desde back-end à front-end e dados. C, Java, VB, VBA, SQL (MS SQL Server e MySQL), Python, HTML, CSS, JavaScript, etc. Agora, eu estou me aprofundando em .NET com C# e estou amando.
 
 ##### If you want to know more about me, visit (Se quiser saber mais sobre mim, acesse):
 <a href="https://www.linkedin.com/in/lfeabreu/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
