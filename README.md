@@ -1,11 +1,11 @@
 ### Hey! I'm Luís Filipe 👋
 
-- 🔭 Currently, I’m Systems Analyst, working with data modeling (SQL Oracle), developing Rocket Uniface codes, making code review and tests. Before, I was working as Data Analyst.
+- 🔭 Currently, I’m Systems Analyst, working with data modeling (SQL Oracle and ER Studio), developing Rocket Uniface codes, making code review and tests. Before, I was working as Data Analyst.
 - 📖 I graduated in Systems Analysis and Development, and postgraduated in Software Engineer with Agile Methods ([Access here my Education](https://www.linkedin.com/in/lfeabreu/details/education/)).
 - 🌱 I've learned a little bit of everything from backend to frontend and data. C, Java, VB, VBA, SQL (MS SQL Server and MySQL), Python, HTML, CSS, JavaScript, etc. Now, I'm delving into .NET with C# and I'm loving it.
 
 ### E aí!? Eu sou Luís Filipe 👋
-- 🔭 Atualmente, eu sou Analista de Sistemas, trabalhando com modelagem de dados (SQL Oracle), desenvolvendo código em Rocket Uniface, fazendo code review e testes. Antes, eu trabalhei como Analista de Dados.
+- 🔭 Atualmente, eu sou Analista de Sistemas, trabalhando com modelagem de dados (SQL Oracle e ER Studio), desenvolvendo código em Rocket Uniface, fazendo code review e testes. Antes, eu trabalhei como Analista de Dados.
 - 📖 Eu me graduei em Análise e Desenvolvimento de Sistemas e pós-graduei em Engenharia de Software com Métodos Ágeis ([Acesse aqui minha Formação Acadêmica](https://www.linkedin.com/in/lfeabreu/details/education/)).
 - 🌱 Eu já aprendi um pouco de tudo, desde back-end à front-end e dados. C, Java, VB, VBA, SQL (MS SQL Server e MySQL), Python, HTML, CSS, JavaScript, etc. Agora, eu estou me aprofundando em .NET com C# e estou amando.
 
